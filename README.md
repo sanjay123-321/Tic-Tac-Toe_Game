@@ -23,9 +23,13 @@ A simple and interactive Tic Tac Toe game implemented in HTML, CSS, and JavaScri
 
 ## Screenshots
 
+## Landing Page
 ![Landing_Page](https://github.com/sanjay123-321/Tic-Tac-Toe_Game/assets/75627170/ca40d1de-92e1-4ce8-ba07-7d5b9dc0f05f)
+## Player 1 Wins
 ![Player1_Wins](https://github.com/sanjay123-321/Tic-Tac-Toe_Game/assets/75627170/b5b9c9e5-06ad-4ef9-88e5-d1ac9b5f2038)
+## Enter Player name
 ![Enter_Player_Name](https://github.com/sanjay123-321/Tic-Tac-Toe_Game/assets/75627170/6ffae79b-b27b-4e7a-8fa3-002cf80fb49a)
+## Draw
 ![Draw](https://github.com/sanjay123-321/Tic-Tac-Toe_Game/assets/75627170/bda80c88-de68-4fe1-ad97-e8d7bb0595dc)
 
 
